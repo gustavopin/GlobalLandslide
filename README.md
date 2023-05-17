@@ -1,14 +1,14 @@
 # Global Landslide Catalog Analysis
-The landslide data was obtained from [NASA]('https://data.nasa.gov/Earth-Science/Global-Landslide-Catalog-Export/dd9e-wu2v').
-The earthquake data was obtained from [USGS]('https://earthquake.usgs.gov/earthquakes/search/')
-The rainfall data was obtained from [NEO]('https://earthobservatory.nasa.gov/global-maps/GPM_3IMERGM')
+The landslide data was obtained from [NASA](https://data.nasa.gov/Earth-Science/Global-Landslide-Catalog-Export/dd9e-wu2v).
+The earthquake data was obtained from [USGS](https://earthquake.usgs.gov/earthquakes/search/)
+The rainfall data was obtained from [NEO](https://earthobservatory.nasa.gov/global-maps/GPM_3IMERGM)
 
 # Analysis
 ## Objective
 This project was created to compare Landslide data that was collected by NASA using News from around the world with Earthquake data, from the USGS, and rain data also from NASA, to see if there are correlation between those events.
 
 ## Technical
-Using JupyterLab with its Python kernel, I wrote a code to plot the collected data from .xlsx and .csv (both within the folder [Data]('Data')) in a coastline basemap using the Basemap, Matplotlib and Seaborn libraries.
+Using JupyterLab with its Python kernel, I wrote a code to plot the collected data from .xlsx and .csv (both within the folder [Data](Data) in a coastline basemap using the Basemap, Matplotlib and Seaborn libraries.
 I also created a topographic map to see mountainous regions and link them with the landslide events.
 The projection used was the Cylinder and I chose to use Geographic (Degrees and Minutes) instead of UTM (Universal Transversal Mercator) because it polutes less and it is simpler to understand.
 
@@ -54,7 +54,7 @@ In 2014 there is a high occurency of landslides at the coas of Brazil, but as sh
 The same can be seen at southeastern Australia, where the high precipitation and elevated terrain can cause a increase in landslide occurencies.
 
 ## In Conclusion
-Landslide events can be linked to earthquakes and the result can be catastrophic, one of the greatest examples of this is [Mount St. Helen]('https://youtu.be/UNlP9TGZOMI?t=78'), where in 1980 a earthquake hit the mountain and caused a lateral eruption that chained into the biggets landslide ever recorded.
+Landslide events can be linked to earthquakes and the result can be catastrophic, one of the greatest examples of this is [Mount St. Helen](https://youtu.be/UNlP9TGZOMI?t=78), where in 1980 a earthquake hit the mountain and caused a lateral eruption that chained into the biggets landslide ever recorded.
 
 But, even with a advanced technology it is hard to predict this kind of event.
 
