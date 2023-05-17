@@ -55,8 +55,13 @@ The same can be seen at southeastern Australia, where the high precipitation and
 
 ## In Conclusion
 Landslide events can be linked to earthquakes and the result can be catastrophic, one of the greatest examples of this is [Mount St. Helen]('https://youtu.be/UNlP9TGZOMI?t=78'), where in 1980 a earthquake hit the mountain and caused a lateral eruption that chained into the biggets landslide ever recorded.
+
 But, even with a advanced technology it is hard to predict this kind of event.
-Landslides by heavy rain are more common and can be avoided by increasing population awareness of dangerous areas as well as the providence of better housing for the people. In Brazil, for example, the housing complexes of the "Favelas" are annualy hit by landslides, many of them with the loss of life, this is due to them being in a very dangerous area and having bad infrastructure
+
+Landslides by heavy rain are more common and can be avoided by increasing population awareness of dangerous areas as well as the providence of better housing for the people. In Brazil, for example, the housing complexes of the "Favelas" are annualy hit by landslides, many of them with the loss of life, this is due to them being in a very dangerous area and having bad infrastructure.
+
 Taking a look at Africa, there aren't many reported landslides events, just some at the central-eastern area, which is a geological active area and it is better monitored, meaning that those events are happening but they are not being notified.
+
 For Europe, most of the events concentrate in the North Mediterranean, near Italy, which is another geological active area.
+
 In general, most of the data is concentrated within the USA and Eastern Asia, being due to NASA/USGS location in the United States and high occurencies in China.
